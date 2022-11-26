@@ -1,5 +1,5 @@
 ---
-name: Rob J Hyndman
+name: Anish Pallod
 address: "Department of Econometrics & Business Statistics,\\tabularnewline Monash University, VIC 3800, Australia."
 www: robjhyndman.com
 phone: +61 3 9905 5141
